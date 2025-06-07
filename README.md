@@ -6,6 +6,8 @@
 
 </div>
 
+## HELLO!
+
 hi, i’m robin, a 1985-born, germany-based solutions engineer and founder of rx-inference. drawing on diverse experience in industrial manufacturing, quality & lean management, and product compliance, i found my passion for tinkering and programming already in my early years. though my professional career took a different path, i’m a self-taught programmer and amateur researcher focusing on artificial intelligence, natural language, structured data, and knowledge extraction. i’ve honed the ability to bridge disciplines, creating comprehensible tools and efficient, scalable solutions to deliver impactful results.
 
 <br>
@@ -21,6 +23,10 @@ hi, i’m robin, a 1985-born, germany-based solutions engineer and founder of rx
 <br>
 
 lessons learned from my over 20 years long professional career in industrial environments are influencing my today's work and software development significantly, breaking down usability barriers and keeping things lean. today, by today i am already about ten years into artificial intelligence starting out in my early interests for ai tools in digital signal processing and music composition, later gaining interests in large language models with the rise of the first gpt models. interestingly, text generators were the reason i regained a strong interest in writing code after years in the industry. it feels like a tale from a scifi movie to say, that nowadays ai can write code but it is convenient and especially lean. what captivates me most is the beauty of ai is that it allows for the possibility of endless experimentation with language, code, algorithms and its therefore emergent digital psychology, which is another fancy scifi term.
+
+<br>
+
+## DIRECTION
 
 this github is my personal playground where i give myself the freedom to publish more of the creative and experimental works that come to mind - unfiltered ideas, media assets, code experiments, generative art and many more that might not fit elsewhere. feel free to explore and get in touch to discuss and ask questions.
 

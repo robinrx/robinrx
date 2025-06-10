@@ -30,17 +30,4 @@ lessons learned from my over 20 years long professional career in industrial env
 
 this github is my personal playground where i give myself the freedom to publish more of the creative and experimental works that come to mind - unfiltered ideas, media assets, code experiments, generative art and many more that might not fit elsewhere. feel free to explore and get in touch to discuss and ask questions.
 
-<br>
-
-![2025-06-07_flowfield_showcase](https://github.com/user-attachments/assets/64bde5f9-a1df-4e07-9cf0-9be1d1e2e093)
-
-<sub>
-  
-> generative art - visualization of an infinite voronoi flowfield written in processing / p5.js; good for cold winter nights when your only heat source is the cpu.
- 
-</sub>
-
-
-<br>
-
 my passion project rx-inference focuses on creating simple but effective barrier- and headache-free task management, knowledge retrieval, data structuring and learning technologies, all while leveraging smart algorithms and artificial intelligence. beyond building tools for mainstream productivity, i'm exploring how these same technologies can augment people with physiological disabilities and cognitive impairments, restoring their autonomy and quality of life. additionally, through the development process itself, i observe fascinating insights into the emergent behaviors that arise when these technologies are woven together in software solutions, watching how different ai components interact, influence each other, and create unexpected patterns that go beyond their individual capabilities.
